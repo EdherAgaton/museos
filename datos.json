@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Bellas Artes",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bellas_Artes_01.jpg",
+    "price": 123,
+    "description": "Palacio de Bellas artes descripcion",
+    "location": "Centro Historico"
+  }
+]
